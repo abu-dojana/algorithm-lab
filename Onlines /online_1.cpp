@@ -1,5 +1,5 @@
 /*
-Question: Merge Sort এ ভাগ করতে করতে যখন শেষ পর্যন্ত আসে, তার আগেই অর্থাৎ, ২ ঘর যখন বাকি থাকে তখন insertion sort ব্যবহার করে সর্ট করতে হবে। 
+Question: Merge Sort এ ভাগ করতে করতে যখন শেষ পর্যন্ত আসে, তার আগেই অর্থাৎ, ২ ঘর যখন বাকি থাকে তখন insertion sort ব্যবহার করে সর্ট করতে হবে।  
 Search: merge sort and insertion sort combo. 
 Link: https://www.geeksforgeeks.org/sorting-by-combining-insertion-sort-and-merge-sort-algorithms/
 
