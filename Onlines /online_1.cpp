@@ -2,6 +2,18 @@
 Question: Merge Sort এ ভাগ করতে করতে যখন শেষ পর্যন্ত আসে, তার আগেই অর্থাৎ, ২ ঘর যখন বাকি থাকে তখন insertion sort ব্যবহার করে সর্ট করতে হবে। 
 Search: merge sort and insertion sort combo. 
 Link: https://www.geeksforgeeks.org/sorting-by-combining-insertion-sort-and-merge-sort-algorithms/
+
+ Sample Explanation of question:
+      □□□□□□□
+        / \
+      □□□ □□□□
+      / \   / \
+    □□  □□ □□  □□  <-- এইখানে insertion sort use করতে হবে।
+    / \
+   □   □  <-- এইখানে না। এই পর্যন্ত merge sort যাবে না। 
+    
+   
+
 */
 
 #include <bits/stdc++.h>
