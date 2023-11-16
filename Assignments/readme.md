@@ -1,1 +1,1 @@
-A
+Stores all the assignments given
